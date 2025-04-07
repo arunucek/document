@@ -1,5 +1,5 @@
 body{
-    background-image: url(back.jpeg);
+    background-image: url(gym.jpeg);
     background-size: cover; 
     /* background-color: rgb(7, 7, 7); */
 }
@@ -58,3 +58,4 @@ nav{
 #h1:hover{
     font-size: 75px;
 }
+
